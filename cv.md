@@ -41,8 +41,6 @@ function getCount(str) {
   }
 ```
 ---
-### Experience
----
 ### Education
 ---
  * University: Belarusian State Technological University, Certification Engineer
