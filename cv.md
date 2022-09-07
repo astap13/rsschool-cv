@@ -47,6 +47,7 @@ function getCount(str) {
  * Coureses: 
     + [HTML Academy](https://htmlacademy.ru/)
     + [The Rolling Scopes School](https://rs.school)
+    + [Udemy](https://www.udemy.com/course/javascript-ru/)
 
 ---
 ### Languages
